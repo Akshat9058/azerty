@@ -1,0 +1,11 @@
+{
+    "name": "AZERTY",
+    "version": "1.5",
+    "description": "scams, away!",
+    "background": {
+    },
+    "browser_action": {
+      "default_popup": "popup.html",
+    },
+    "manifest_version": 2
+  }
